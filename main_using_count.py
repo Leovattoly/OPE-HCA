@@ -2,8 +2,6 @@
 """
 Created on Wed Oct 14 10:16:54 2020
 
-@author: DELL
-
 """
 
 import numpy as np
